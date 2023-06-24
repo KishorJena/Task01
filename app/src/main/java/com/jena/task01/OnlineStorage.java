@@ -21,6 +21,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Objects;
+import java.util.UUID;
 
 public class OnlineStorage {
 
@@ -58,8 +59,8 @@ public class OnlineStorage {
         // Get the FirebaseStorage instance
         FirebaseStorage storage = FirebaseStorage.getInstance();
 
-        // Create a reference to the full path of the file, including the file name
-        StorageReference storageRef = storage.getReference().child("images/image.jpg");
+        String fileName = UUID.randomUUID().toString().toString() + ".jpg";// Create a reference to the full path of the file, including the file name
+        StorageReference storageRef = storage.getReference().child("images/"+fileName);
 
 //        Uri _selectedImageUri = selectedImageUri; //TODO
         // Upload the image to Firebase Storage

@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "464826619341",
-    "project_id": "task01-db1a1",
-    "storage_bucket": "task01-db1a1.appspot.com"
+    "project_number": "61249591837",
+    "project_id": "task1-ee2a5",
+    "storage_bucket": "task1-ee2a5.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:464826619341:android:c27c9c1054bb15b8122084",
+        "mobilesdk_app_id": "1:61249591837:android:b5ebfc747654247d9e84f4",
         "android_client_info": {
           "package_name": "com.jena.task01"
         }
       },
       "oauth_client": [
         {
-          "client_id": "464826619341-qi5t5ndtmh5cfje4al1tl44s20fqlhi8.apps.googleusercontent.com",
+          "client_id": "61249591837-iimv32r11n9pclbvaqr9t54mtlqdrqu2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyA213Fb7pz24sJBrrL-bFZ8NmTMOog89pM"
+          "current_key": "AIzaSyBJEDeat9b4Raevnp37X_ylcze8sHacJZg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "464826619341-qi5t5ndtmh5cfje4al1tl44s20fqlhi8.apps.googleusercontent.com",
+              "client_id": "61249591837-iimv32r11n9pclbvaqr9t54mtlqdrqu2.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
